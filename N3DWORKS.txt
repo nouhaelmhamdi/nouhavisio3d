@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+	<link rel="stylesheet" href="works.css">
+	<title>N3D WORKS</title>
+</head>
+
+<body>
+	<header>
+		<a href="#" class="logo">NouhaVisio 3D</a>
+		<nav class="navigation">
+			<a href="#SERVICES">Services</a>
+			<a href="#PROJECTS">Projects</a>
+			<a href="#CONTACT">Contact</a>
+		</nav>
+		<nav class="social-icons">
+			<a href="mailto:nouhaelmhamdi@gmail.com"><i class="fa-regular fa-envelope" style="color: #F12195;"></i></a>
+			<a href="https://www.linkedin.com/in/nouha-elmhamdi" target="_blank"><i class="fa-brands fa-linkedin-in" style="color: #F12195;"></i></a>
+			<a href="https://www.instagram.com/nouhaelmhamdi" target="_blank"><i class="fa-brands fa-instagram" style="color: #F12195;"></i></a>
+		</nav>
+	</header>
+
+    <section class="main" id="ABOUT">
+		<div>
+			<h2>TCOMPLEX TABLE DESIGN <br><span>SolidWorks</span></h2>
+			<h3>I bring creative visions to life,</h3><br>
+		</div>
+	</section>
