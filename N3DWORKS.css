@@ -67,16 +67,16 @@ section{
 .solidworks {
 	background: linear-gradient(90deg, #ff0000, #ffa41b);
 	width: fit-content;
-	background-clip: text;
+	-webkit-background-clip: text;
 	color: transparent;
 }
 
 .catia {
 	background: linear-gradient(90deg, #1100ff, #0097fc);
 	width: fit-content;
-	background-clip: text;
+	-webkit-background-clip: text;
 	color: transparent;
-    font-weight: 800 ;
+  	font-weight: 800 ;
 }
 
 ul span {
