@@ -277,14 +277,14 @@ input:checked + label .description {
 .project-title .solidworks {
 	background: linear-gradient(90deg, #ff0000, #ffa41b);
 	width: fit-content;
-	background-clip: text;
+	-webkit-background-clip: text;
 	color: transparent;
 }
 
 .project-title .catia {
 	background: linear-gradient(90deg, #1100ff, #0097fc);
 	width: fit-content;
-	background-clip: text;
+	-webkit-background-clip: text;
 	color: transparent;
 }
 
